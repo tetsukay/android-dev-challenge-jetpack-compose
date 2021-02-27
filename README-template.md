@@ -6,13 +6,12 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
 
+This app is a dog album app.
+In the future, you will be able to take pictures with your camera or load images from your device.
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
-
+The dog's photo and profile are displayed in a list, and can be viewed in more detail by clicking on them.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
