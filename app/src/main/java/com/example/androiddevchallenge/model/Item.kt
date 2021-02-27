@@ -15,6 +15,5 @@
  */
 package com.example.androiddevchallenge.model
 
-import androidx.annotation.IntegerRes
-
-data class Item(val id: Int, val name: String, val age: Int, @IntegerRes val image: Int)
+import androidx.annotation.DrawableRes
+data class Item(val id: Int, val name: String, val age: Int, @DrawableRes val image: Int)
